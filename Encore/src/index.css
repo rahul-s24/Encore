@@ -1,0 +1,12 @@
+/* index.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* custom colors */
+:root {
+  --bg-dark: #1a1a1a;
+  --bg-charcoal: #242424;
+  --text-off-white: #f5f5f5;
+  --text-light-gray: #c0c0c0;
+}
